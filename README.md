@@ -21,7 +21,7 @@ Me gusta explorar el punto de encuentro entre la informática, las matemáticas 
 
 ### 🛠 Tecnologías y herramientas
 - **Lenguajes:** Actualmente Java, C# y Python.
-- **Matemáticas e IA:** Aprendiendo matemáticas, programación, análisis de datos, aprendizaje automático, aprendizaje profundo y más.
+- **Matemáticas e IA:** Aprendiendo matemáticas, programación, análisis de datos, machine learning, deep learning y más.
 
 ---
 
