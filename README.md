@@ -1,30 +1,30 @@
-# Hi, I'm Pablo 👋
+# Hola, soy Pablo 👋
 
-I'm an Artificial Intelligence Engineering and Music student from the University of Caldas, Colombia. 
+Estudiante de Ingeniería en Inteligencia Artificial y Música en la Universidad de Caldas, Colombia.
 
-I like exploring the space where computer science, mathematics, and music composition meet—building open-source tools, working on AI-driven audio applications, and creating music.
-
----
-
-### 💻 What I Do
-* **AI & Software:** Working with Python, machine learning workflows, and building practical applications that combine audio processing with intelligent systems.
-* **Music & Composition:** Writing scores for chamber ensembles and orchestra, studying orchestration, and practicing trumpet.
+Me gusta explorar el punto de encuentro entre la informática, las matemáticas y la composición musical: creando herramientas de código abierto, trabajando en aplicaciones de audio impulsadas por IA y componiendo música.
 
 ---
 
-### 🎵 Current Projects & Focus
-* Developing open-source tools for music analysis, interactive performance, and content creation using Python and AI.
-* Composing original orchestral and Colombian repertoire.
-* Collaborating on interactive web tools and educational frameworks for math and computer science.
+### 💻 Lo que hago
+- **IA y Software:** Trabajo con Python, flujos de aprendizaje automático y desarrollo de aplicaciones prácticas que combinan el procesamiento de audio con sistemas inteligentes.
+- **Música y Composición:** Escribo partituras para conjuntos de cámara y orquesta, estudio orquestación y practico trompeta.
 
 ---
 
-### 🛠 Tech Stack & Tools
-* **Languages:** Currently Java, C# & Python
-* **Math & AI:** Learning Maths, Programming, Data Analisis, Machine Learning, Deep Learning, and more.
+### 🎵 Proyectos y enfoque actual
+- Desarrollo de herramientas de código abierto para análisis musical, interpretación interactiva y creación de contenido usando Python e IA.
+- Composición de repertorio original orquestal y colombiano.
+- Colaboración en herramientas web interactivas y marcos educativos para matemáticas y ciencias de la computación.
 
 ---
 
-### 📬 Connect With Me
-* **GitHub:** [@jhompiscode](https://github.com/jhompiscode)
-* Open to collaborating on open-source projects involving music tech, audio processing, or creative coding.
+### 🛠 Tecnologías y herramientas
+- **Lenguajes:** Actualmente Java, C# y Python.
+- **Matemáticas e IA:** Aprendiendo matemáticas, programación, análisis de datos, aprendizaje automático, aprendizaje profundo y más.
+
+---
+
+### 📬 Contacto
+- **GitHub:** [@jhompiscode](https://github.com/jhompiscode)
+- Abierto a colaborar en proyectos de código abierto relacionados con tecnología musical, procesamiento de audio o programación creativa.
